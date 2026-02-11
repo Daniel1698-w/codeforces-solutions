@@ -1,0 +1,1 @@
+{"name":"Local: dictinary_get","url":"c:\\Users\\CBZ\\Downloads\\Telegram Desktop\\break\\dictinary_get.py","tests":[{"id":1770187123139,"input":"5 4\n1 2 2 3 1\n1\n2\n3\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\CBZ\\Downloads\\Telegram Desktop\\break\\dictinary_get.py","group":"local","local":true}
